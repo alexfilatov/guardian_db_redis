@@ -1,4 +1,4 @@
-# GuardianDb Redis Repo
+# [GuardianDb](https://github.com/ueberauth/guardian_db) Redis Repo
 
 ## Installation
 
